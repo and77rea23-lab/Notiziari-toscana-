@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.rainews.it/assets/tgr-logo.png" group-title="TG Toscana", TG Toscana On Demand
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=tgr_toscana_m3u8
